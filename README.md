@@ -1,7 +1,7 @@
 # school
 School Management System
 
-front page
+front page<br>
 Create Blog
 create Agenda
 create Pengumuman
